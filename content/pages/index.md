@@ -14,10 +14,10 @@ sections:
       Thank you for finding our home here. I am a fingerweaver and this is a
       blog about fingerweaving.
 
-      We will look into the origins of fingerweaving in culture today. 
+      We will look into the origins of fingerweaving in culture today.
 
-      Looking forward to sharing knowledge, pass wisdom and hopefully, learning
-      together.
+      Looking forward to sharing knowledge, passing wisdom (links) and hopefully
+      learning together.
 
 
       @fingerweaver
