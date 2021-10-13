@@ -7,7 +7,7 @@ sections:
     title: Fingerweave.com you found us...
     content: >
       It took us 10,000+ years but we finally have a website, twitter and
-      instagram. Lets get fingerweaving
+      instagram.
   - section_id: about
     type: section_content
     title: About
