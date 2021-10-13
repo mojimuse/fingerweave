@@ -12,11 +12,11 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >+
+      First of all, thank you for finding our home here. I am a fingerweaver and
+      this is a blog about fingerweaving, the origins of finger weaving and how
+      to create wonderful crafts with your fingers.
+
     actions:
       - label: Contact Me
         url: /contact
