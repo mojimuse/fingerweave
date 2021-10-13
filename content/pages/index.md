@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Fingerweave.com you found us...
     content: |
-      It took 10,000+ years and we finally have a website for fingerweaving.
+      It took 10,000+ years we finally have a website.
   - section_id: about
     type: section_content
     title: About
