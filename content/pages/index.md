@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: Fingerweave.com you found us...
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      First of all, thank you for finding our home here. I am a fingerweaver and
+      this is a blog about fingerweaving, the origins of finger weaving and how
+      to create wonderful crafts with your fingers.
   - section_id: about
     type: section_content
     title: About
