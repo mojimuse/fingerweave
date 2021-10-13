@@ -6,9 +6,8 @@ sections:
     type: section_hero
     title: Fingerweave.com you found us...
     content: >
-      First of all, thank you for finding our home here. I am a fingerweaver and
-      this is a blog about fingerweaving, the origins of finger weaving and how
-      to create wonderful crafts with your fingers.
+      It took us 10,000+ years but we finally have a website, a twitter and a
+      instagram.
   - section_id: about
     type: section_content
     title: About
