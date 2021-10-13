@@ -9,7 +9,7 @@ sections:
       It took 10,000+ years we finally have a website.
   - section_id: about
     type: section_content
-    title: About
+    title: about fingerweaver
     content: >
       Thank you for finding our home here. I am a fingerweaver and this is a
       blog about fingerweaving.
