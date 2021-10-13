@@ -11,10 +11,9 @@ sections:
     type: section_content
     title: About
     content: >
-      I raise my hands to you, Thank you for finding our home here. I am a
-      fingerweaver and this is a blog about fingerweaving. We will look into the
-      origins of fingerweaving today. We will share knowledge, pass wisdom and
-      hopefully, learn together.
+      Thank you for finding our home here. I am a fingerweaver and this is a
+      blog about fingerweaving. We will look into the origins of fingerweaving. 
+      We will share knowledge, pass wisdom and hopefully, learn together. 
     actions:
       - label: Contact Me
         url: /contact
