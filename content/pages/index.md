@@ -12,10 +12,11 @@ sections:
     title: About
     content: >
       Thank you for finding our home here. I am a fingerweaver and this is a
-      blog about fingerweaving. 
+      blog about fingerweaving.
 
-      We will look into the origins of fingerweaving.  We will share knowledge,
-      pass wisdom and hopefully, learn together.
+      We will look into the origins of fingerweaving.  
+
+      We will share knowledge, pass wisdom and hopefully, learn together.
     actions:
       - label: Contact Me
         url: /contact
