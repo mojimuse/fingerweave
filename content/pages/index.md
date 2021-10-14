@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Fingerweave.com you found us...
+    title: Fingerweavers.. you found us...
     content: |
       It took 10,000+ years we finally have a website.
   - section_id: about
