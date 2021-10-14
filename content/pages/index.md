@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Fingerweavers.. you found us...
     content: |
-      It took 10,000+ years we finally have a website.
+      It took 100,000+ years we finally have a website.
   - section_id: about
     type: section_content
     title: about fingerweaver
