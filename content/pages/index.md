@@ -9,7 +9,7 @@ sections:
       Took 100,000+ years now we have a website, blog and Twitter.
   - section_id: about
     type: section_content
-    title: about fingerweaver
+    title: about fingerweave.com
     content: >
       Thank you for finding our home here. I am a Indiginous fingerweaver and
       this is a blog about fingerweaving.
