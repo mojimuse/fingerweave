@@ -17,9 +17,7 @@ sections:
       Peering into the origins of fingerweaving in culture today.
 
 
-
-      Looking forward to sharing knowledge, wisdom and hopefully learning
-      together.
+      Looking forward to sharing.
 
 
       @fingerweaver
