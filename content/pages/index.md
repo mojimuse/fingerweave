@@ -11,13 +11,15 @@ sections:
     type: section_content
     title: about fingerweave.com
     content: >
-      Thank you for finding our home here. I am a Indiginous fingerweaver and
-      this is a blog about fingerweaving.
+      Thank you for finding our home here. I am fingerweaver and this is a blog
+      about fingerweaving.
 
       Peering into the origins of fingerweaving in culture today.
 
-      Looking forward to sharing knowledge, passing wisdom (links) and hopefully
-      learning together.
+
+
+      Looking forward to sharing knowledge, wisdom and hopefully learning
+      together.
 
 
       @fingerweaver
