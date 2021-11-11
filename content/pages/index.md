@@ -36,8 +36,8 @@ sections:
 seo:
   title: Fingerweave.com - Learn to make a friendship bracelet.
   description: >-
-    Our goal is to connect knowledge & history of fingerweaving. Teach how to
-    create basic fingerweaving patterns.
+    Learn to make a friendship bracelet you can share with a friend. All you
+    need is some string.
   extra:
     - name: 'og:type'
       value: website
