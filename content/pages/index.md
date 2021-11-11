@@ -14,7 +14,7 @@ sections:
       Thank you for finding our home here. I am fingerweaver and this is a blog
       about fingerweaving.
 
-      Peering into the origins of fingerweaving in culture today.
+      Learn how to make a friendship bracelet.
 
 
       Looking forward to sharing.
