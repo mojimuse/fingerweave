@@ -14,7 +14,9 @@ sections:
       Thank you for finding our home here. I am fingerweaver and this is a blog
       about fingerweaving.
 
-      Learn how to make a friendship bracelet.
+
+      Craft a friendship bracelet and spread the joy of friendship across the
+      world.
 
 
       Looking forward to sharing.
