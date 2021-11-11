@@ -34,7 +34,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Fingerweave.com - Learn to make a friendship bracelet.
+  title: Fingerweave.com - Make a friendship bracelet.
   description: >-
     Learn to make a friendship bracelet you can share with a friend. All you
     need is some string.
